@@ -4,18 +4,18 @@ import java.io.IOException;
 
 public class InputOutputHandler {
 
-    private Write out = new Write();
-    private Read in = new Read();
+    private final Write OUT = new Write();
+    private final Read IN = new Read();
 
     public InputOutputHandler() throws IOException {
     }
 
     public void writeResultsToFile(String result) throws IOException {
-        out.writeResultToFile(result);
+        OUT.writeResultToFile(result);
     }
 
     public void readResultFromFile() throws IOException {
-        in.readResultFromFile();
+        IN.readResultFromFile();
     }
 
 }
