@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="gitignore added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KnockOut/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
     </list>
+    <list id="237f1d45-fab8-4662-89ca-7d88ea59faa6" name="Changes by peter" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
+    </list>
+    <list id="eaaaa751-27f9-4d2c-93c0-13ce90a5e4b9" name="Changes by Stefan" comment="" />
+    <list id="2b4bfab4-b119-49d4-bef0-a59428170444" name="Changes by svantesodergard" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +31,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/KnockOut/Main.java">
+      <ranges>
+        <range start1="0" end1="0" start2="0" end2="5" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="1" end1="1" start2="6" end2="24" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="2" end1="3" start2="25" end2="26" changelist="237f1d45-fab8-4662-89ca-7d88ea59faa6" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,12 +53,34 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KnockOut.Main" />
+      <module name="ProjektarbeteKnockOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KnockOut.Facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,8 +89,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671099146665</updated>
-      <workItem from="1671099149273" duration="1528000" />
+      <workItem from="1671099149273" duration="7789000" />
     </task>
+    <task id="LOCAL−00001" summary="gitignore added">
+      <created>1671104679380</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1671104679380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore added" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore added" />
   </component>
 </project>
