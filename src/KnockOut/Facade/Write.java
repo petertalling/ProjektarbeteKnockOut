@@ -14,5 +14,6 @@ public class Write {
 
     public void writeResultToFile(String result) {
         printWriter.println(result);
+        printWriter.close();
     }
 }
