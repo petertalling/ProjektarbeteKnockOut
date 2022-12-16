@@ -1,0 +1,58 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"463b1709-5ea0-474f-9640-6d167cb4ffdd\" name=\"Changes\" comment=\"gitignore added\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/KnockOut/Dice.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/KnockOut/Facade/Read.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/KnockOut/Facade/Write.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/KnockOut/Game.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/KnockOut/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"237f1d45-fab8-4662-89ca-7d88ea59faa6\" name=\"Changes by peter\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/KnockOut/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"eaaaa751-27f9-4d2c-93c0-13ce90a5e4b9\" name=\"Changes by Stefan\" comment=\"\" />\r\n    <list id=\"2b4bfab4-b119-49d4-bef0-a59428170444\" name=\"Changes by svantesodergard\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"LineStatusTrackerManager\">\r\n    <file path=\"$PROJECT_DIR$/src/KnockOut/Main.java\">\r\n      <ranges>\r\n        <range start1=\"0\" end1=\"0\" start2=\"0\" end2=\"5\" changelist=\"463b1709-5ea0-474f-9640-6d167cb4ffdd\" />\r\n        <range start1=\"1\" end1=\"1\" start2=\"6\" end2=\"24\" changelist=\"463b1709-5ea0-474f-9640-6d167cb4ffdd\" />\r\n        <range start1=\"2\" end1=\"3\" start2=\"25\" end2=\"26\" changelist=\"237f1d45-fab8-4662-89ca-7d88ea59faa6\" />\r\n      </ranges>\r\n    </file>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Iwiewpveu6t7JADJ9hgO0HLg4M\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"KnockOut.Main\" />\r\n      <module name=\"ProjektarbeteKnockOut\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"KnockOut.Facade.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"463b1709-5ea0-474f-9640-6d167cb4ffdd\" name=\"Changes\" comment=\"\" />\r\n      <created>1671099146665</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1671099146665</updated>\r\n      <workItem from=\"1671099149273\" duration=\"7789000\" />\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"gitignore added\">\r\n      <created>1671104679380</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1671104679380</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"gitignore added\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"gitignore added\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 90c06aa0c5ec5009c778cc46b81756ccfa858bd3)
++++ b/.idea/workspace.xml	(date 1671113067578)
+@@ -1,19 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="gitignore added">
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Dice.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
++    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
+-    </list>
+-    <list id="237f1d45-fab8-4662-89ca-7d88ea59faa6" name="Changes by peter" comment="">
+-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
+     </list>
++    <list id="237f1d45-fab8-4662-89ca-7d88ea59faa6" name="Changes by peter" comment="" />
+     <list id="eaaaa751-27f9-4d2c-93c0-13ce90a5e4b9" name="Changes by Stefan" comment="" />
+     <list id="2b4bfab4-b119-49d4-bef0-a59428170444" name="Changes by svantesodergard" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -31,15 +22,6 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="LineStatusTrackerManager">
+-    <file path="$PROJECT_DIR$/src/KnockOut/Main.java">
+-      <ranges>
+-        <range start1="0" end1="0" start2="0" end2="5" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+-        <range start1="1" end1="1" start2="6" end2="24" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+-        <range start1="2" end1="3" start2="25" end2="26" changelist="237f1d45-fab8-4662-89ca-7d88ea59faa6" />
+-      </ranges>
+-    </file>
+-  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+@@ -58,7 +40,8 @@
+     "codeWithMe.voiceChat.enabledByDefault": "false",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2"
++    "project.structure.side.proportion": "0.2",
++    "settings.editor.selected.configurable": "preferences.pluginManager"
+   }
+ }]]></component>
+   <component name="RunManager">
