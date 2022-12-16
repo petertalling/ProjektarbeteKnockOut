@@ -10,9 +10,13 @@ public class Read {
     public Read() throws FileNotFoundException {
     }
 
-    public void readResultFromFile() throws IOException {
+    public ArrayList<String> resultListFromFile() throws IOException {
+        ArrayList<String> resultList = new ArrayList<>();
         try {
-            System.out.println(bufferedReader.readLine());
+            String nextLine;
+            while ((nextLine = bufferedReader.readLine()) != null) {
+                resultList.add(nextLine);
+            }
         } catch (Exception ex) {
             System.out.println("Något gick fel!");
         }

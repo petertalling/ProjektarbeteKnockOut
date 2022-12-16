@@ -72,7 +72,7 @@ public class Game extends JFrame implements ActionListener{
             die2.setIcon(dice2.getImage());
             currentTotal = dice1.getCurrentNumber() + dice2.getCurrentNumber();
             points++;
-            pointsLabel.setText("Poäng: "+points);
+            pointsLabel.setText("Poäng: " + points);
             if (gameLost()) {
                 title.setText("DU FÖRLORADE!");
                 try {

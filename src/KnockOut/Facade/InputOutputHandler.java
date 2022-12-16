@@ -14,8 +14,8 @@ public class InputOutputHandler {
         OUT.writeResultToFile(result);
     }
 
-    public void readResultFromFile() throws IOException {
-        IN.readResultFromFile();
+    public ArrayList<String> resultListFromFile() throws IOException {
+        return IN.resultListFromFile();
     }
 
 }

@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_09_40__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_09_40__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dice results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dice results.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
     </list>
     <list id="a9c15a11-e9df-469b-8dd6-809ada47f4c1" name="Changes by lemoniapalmqvist" comment="" />
-    <list id="c7523a9d-e7f1-4ee4-bbee-06a82183a47d" name="Changes by peter" comment="" />
+    <list id="2e1d8cae-df33-4fea-a22e-ef29bb09e455" name="Changes by lemoniapd" comment="">
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
+    </list>
+    <list id="f934b482-960b-41d0-aceb-6af64faa8fb0" name="Changes by peter" comment="" />
     <list id="019fed68-b9c2-400f-bd15-df35e3e942d5" name="Changes by Stefan" comment="" />
+    <list id="22108256-6e2f-4d25-8a4e-4e36318e90ac" name="Changes by svantesodergard" comment="">
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +44,34 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/KnockOut/Facade/Read.java">
+      <ranges>
+        <range start1="3" end1="4" start2="3" end2="4" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+        <range start1="12" end1="13" start2="12" end2="14" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="14" end1="15" start2="15" end2="19" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="18" end1="18" start2="22" end2="23" changelist="22108256-6e2f-4d25-8a4e-4e36318e90ac" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/src/KnockOut/Game.java">
+      <ranges>
+        <range start1="9" end1="9" start2="9" end2="11" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+        <range start1="30" end1="30" start2="32" end2="36" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+        <range start1="64" end1="64" start2="70" end2="88" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+        <range start1="67" end1="68" start2="91" end2="92" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+        <range start1="74" end1="75" start2="98" end2="99" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="77" end1="77" start2="101" end2="120" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+        <range start1="79" end1="80" start2="122" end2="123" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java">
+      <ranges>
+        <range start1="3" end1="3" start2="3" end2="4" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+        <range start1="16" end1="18" start2="17" end2="19" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="19" end1="20" start2="20" end2="20" changelist="2e1d8cae-df33-4fea-a22e-ef29bb09e455" />
+      </ranges>
+    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
