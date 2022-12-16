@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="first version, CodeWithMe">
+    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dice results.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilder/dice1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/bilder/dice1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilder/dice2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/bilder/dice2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilder/dice3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/bilder/dice3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilder/dice4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/bilder/dice4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilder/dice5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/bilder/dice5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilder/dice6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/bilder/dice6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
+    </list>
+    <list id="a9c15a11-e9df-469b-8dd6-809ada47f4c1" name="Changes by lemoniapalmqvist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Dice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
     </list>
+    <list id="c7523a9d-e7f1-4ee4-bbee-06a82183a47d" name="Changes by peter" comment="">
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
+    </list>
+    <list id="019fed68-b9c2-400f-bd15-df35e3e942d5" name="Changes by Stefan" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +39,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/KnockOut/Game.java">
+      <ranges>
+        <range start1="10" end1="25" start2="10" end2="11" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="32" end1="33" start2="18" end2="18" changelist="a9c15a11-e9df-469b-8dd6-809ada47f4c1" />
+        <range start1="35" end1="35" start2="20" end2="30" changelist="c7523a9d-e7f1-4ee4-bbee-06a82183a47d" />
+        <range start1="36" end1="37" start2="31" end2="32" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="41" end1="42" start2="36" end2="37" changelist="c7523a9d-e7f1-4ee4-bbee-06a82183a47d" />
+        <range start1="43" end1="43" start2="38" end2="40" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="49" end1="51" start2="46" end2="46" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="55" end1="56" start2="50" end2="51" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="61" end1="75" start2="56" end2="58" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="83" end1="84" start2="66" end2="67" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="85" end1="85" start2="68" end2="69" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="86" end1="86" start2="70" end2="83" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+      </ranges>
+    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,15 +77,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/KnockOut" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KnockOut.Main" />
@@ -70,9 +123,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671099146665</updated>
-      <workItem from="1671099149273" duration="7959000" />
-      <workItem from="1671111145479" duration="1650000" />
-      <workItem from="1671180946530" duration="599000" />
+      <workItem from="1671099149273" duration="7789000" />
+      <workItem from="1671183512853" duration="3028000" />
     </task>
     <task id="LOCAL−00001" summary="gitignore added">
       <created>1671104679380</created>
@@ -80,25 +132,7 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1671104679380</updated>
     </task>
-    <task id="LOCAL−00002" summary="first version, CodeWithMe">
-      <created>1671110973627</created>
-      <option name="number" value="LOCAL−00002" />
-      <option name="presentableId" value="LOCAL−00002" />
-      <updated>1671110973627</updated>
-    </task>
-    <task id="LOCAL−00003" summary="first version, CodeWithMe">
-      <created>1671111037044</created>
-      <option name="number" value="LOCAL−00003" />
-      <option name="presentableId" value="LOCAL−00003" />
-      <updated>1671111037044</updated>
-    </task>
-    <task id="LOCAL−00004" summary="first version, CodeWithMe">
-      <created>1671111057099</created>
-      <option name="number" value="LOCAL−00004" />
-      <option name="presentableId" value="LOCAL−00004" />
-      <updated>1671111057099</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,8 +151,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore added" />
-    <MESSAGE value="Changes by peter" />
-    <MESSAGE value="first version, CodeWithMe" />
-    <option name="LAST_COMMIT_MESSAGE" value="first version, CodeWithMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore added" />
   </component>
 </project>
