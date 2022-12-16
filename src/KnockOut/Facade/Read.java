@@ -20,5 +20,6 @@ public class Read {
         } catch (Exception ex) {
             System.out.println("Något gick fel!");
         }
+        return resultList;
     }
 }
