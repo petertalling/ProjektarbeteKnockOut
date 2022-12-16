@@ -26,7 +26,7 @@ public class Game extends JFrame implements ActionListener {
 
     private final int NUMBER_OF_DICE = 2;
     private int currentTotal;
-    private int forbiddenNumber;
+    private int knockOutNumber;
     private String name;
     private int points = 0;
     Dice dice1 = new Dice();
@@ -54,11 +54,12 @@ public class Game extends JFrame implements ActionListener {
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 
         if (forbiddenNumber < NUMBER_OF_DICE || forbiddenNumber > 6 * NUMBER_OF_DICE) {
-            JOptionPane.showMessageDialog(null, "Förbjudet nummer måste vara mellan 2-12!");
+            JOptionPane.showMessageDialog(null, "KnockOut-nummer måste vara mellan "
+                    + NUMBER_OF_DICE + "-" + NUMBER_OF_DICE * 6 + "!");
             throw new IllegalArgumentException();
         }
         this.name = name;
-        this.forbiddenNumber = forbiddenNumber;
+        this.knockOutNumber = knockOutNumber;
 
         while (!gameLost()) {
             int response = JOptionPane.showConfirmDialog(null, "Vill du kasta tärningar?");
@@ -75,8 +76,14 @@ public class Game extends JFrame implements ActionListener {
     }
 
     public boolean gameLost() {
-        return currentTotal == forbiddenNumber;
+        return currentTotal == knockOutNumber;
     }
 
-
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        if(e.getSource() == throwDice){
+            dice1.throwDice();
+            dice2.throwDice();
+        }
+    }
 }
