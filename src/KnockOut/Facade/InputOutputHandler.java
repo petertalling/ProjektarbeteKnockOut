@@ -1,6 +1,7 @@
 package KnockOut.Facade;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class InputOutputHandler {
 
@@ -17,5 +18,4 @@ public class InputOutputHandler {
     public ArrayList<String> resultListFromFile() throws IOException {
         return IN.resultListFromFile();
     }
-
 }
