@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="gitignore added">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
+    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
     </list>
-    <list id="237f1d45-fab8-4662-89ca-7d88ea59faa6" name="Changes by peter" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
+    <list id="a9c15a11-e9df-469b-8dd6-809ada47f4c1" name="Changes by lemoniapalmqvist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
     </list>
-    <list id="eaaaa751-27f9-4d2c-93c0-13ce90a5e4b9" name="Changes by Stefan" comment="" />
-    <list id="2b4bfab4-b119-49d4-bef0-a59428170444" name="Changes by svantesodergard" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +22,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/KnockOut/Main.java">
+    <file path="$PROJECT_DIR$/src/KnockOut/Game.java">
       <ranges>
-        <range start1="0" end1="0" start2="0" end2="5" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
-        <range start1="1" end1="1" start2="6" end2="24" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
-        <range start1="2" end1="3" start2="25" end2="26" changelist="237f1d45-fab8-4662-89ca-7d88ea59faa6" />
+        <range start1="5" end1="5" start2="5" end2="8" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="7" end1="8" start2="10" end2="26" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="10" end1="11" start2="28" end2="29" changelist="a9c15a11-e9df-469b-8dd6-809ada47f4c1" />
+        <range start1="19" end1="19" start2="37" end2="55" changelist="463b1709-5ea0-474f-9640-6d167cb4ffdd" />
+        <range start1="20" end1="21" start2="56" end2="58" changelist="a9c15a11-e9df-469b-8dd6-809ada47f4c1" />
+        <range start1="24" end1="25" start2="61" end2="62" changelist="a9c15a11-e9df-469b-8dd6-809ada47f4c1" />
+        <range start1="41" end1="42" start2="78" end2="79" changelist="a9c15a11-e9df-469b-8dd6-809ada47f4c1" />
+        <range start1="44" end1="45" start2="81" end2="88" changelist="a9c15a11-e9df-469b-8dd6-809ada47f4c1" />
       </ranges>
     </file>
   </component>
@@ -49,18 +52,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KnockOut.Main" />
