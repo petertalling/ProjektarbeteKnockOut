@@ -16,7 +16,6 @@ public class Game extends JFrame implements ActionListener{
     private String name;
     private int points = 0;
     Dice dice1 = new Dice();
-
     Dice dice2 = new Dice();
     InputOutputHandler inputOutputHandler = new InputOutputHandler();
 
