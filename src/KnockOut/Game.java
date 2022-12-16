@@ -45,6 +45,7 @@ public class Game extends JFrame implements ActionListener{
         bottomHalf.add(die1);
         bottomHalf.add(die2);
         pack();
+        this.setLocationRelativeTo(null);
         this.setVisible(true);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 
