@@ -19,12 +19,22 @@ public class Game extends JFrame implements ActionListener{
     Dice dice2 = new Dice();
     InputOutputHandler inputOutputHandler = new InputOutputHandler();
 
+    JPanel basePanel = new JPanel();
+    JPanel topHalf = new JPanel();
+    JPanel bottomHalf = new JPanel();
+    JLabel title = new JLabel("Knock-out!");
+    JLabel die1 = new JLabel(dice1.getImage());
+    JLabel die2 = new JLabel(dice2.getImage());
+    JLabel pointsLabel = new JLabel("Poäng: ");
+    JLabel koNumber = new JLabel("Knock-out nummer: " + knockOutNumber);
+    JButton throwDice = new JButton("Kasta tärningar");
+
     public Game(String name, int knockoutNumber) throws IOException {
         this.add(basePanel);
         basePanel.setLayout(new BorderLayout());
         basePanel.add(topHalf, BorderLayout.NORTH);
         basePanel.add(bottomHalf, BorderLayout.SOUTH);
-        topHalf.setLayout(new GridLayout(2,1));
+        topHalf.setLayout(new GridLayout(4,1));
         topHalf.add(title);
         topHalf.add(koNumber);
         topHalf.add(pointsLabel);
