@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.io.IOException;
 
 public class Main {
-
     public Main() {
         JOptionPane.showMessageDialog(null, """
                 Välkommen till KnockOut!\s
