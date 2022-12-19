@@ -8,3 +8,7 @@
 4 poäng, Stefan
 1 poäng, Stefan
 2 poäng, Stefan
+10 poäng, Peter
+6 poäng, 9
+3 poäng, p
+5 poäng, peter
