@@ -17,18 +17,18 @@ public class Game extends JFrame implements ActionListener{
     private int knockOutNumber;
     private String name;
     private int points = 0;
-    Dice dice1 = new Dice();
-    Dice dice2 = new Dice();
+    PinkDice dice1 = new PinkDice();
+    YellowDice dice2 = new YellowDice();
     InputOutputHandler inputOutputHandler = new InputOutputHandler();
 
     JPanel basePanel = new JPanel();
     JPanel topHalf = new JPanel();
     JPanel bottomHalf = new JPanel();
-    JLabel title = new JLabel("Knock-out!");
+    JLabel title = new JLabel("KnockOut!");
     JLabel die1 = new JLabel(dice1.getImage());
     JLabel die2 = new JLabel(dice2.getImage());
     JLabel pointsLabel = new JLabel("Poäng: ");
-    JLabel koNumber = new JLabel("Knock-out nummer: " + knockOutNumber);
+    JLabel koNumber = new JLabel("KnockOut-nummer: " + knockOutNumber);
     JButton throwDice = new JButton("Kasta tärningar");
     JLabel highscore1 =  new JLabel();
     JLabel highscore2 =  new JLabel();
@@ -62,7 +62,7 @@ public class Game extends JFrame implements ActionListener{
         }
         this.name = name;
         this.knockOutNumber = knockoutNumber;
-        koNumber.setText("Knock-out nummer: " + knockoutNumber);
+        koNumber.setText("KnockOut-nummer: " + knockoutNumber);
     }
 
     public boolean gameLost() {
