@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class InputOutputHandler {
 
-    private final Write OUT = new Write();
+    private final Write OUT = Write.getInstance();
     private final Read IN = new Read();
 
     public InputOutputHandler() throws IOException {

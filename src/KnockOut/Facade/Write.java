@@ -7,9 +7,18 @@ import java.io.PrintWriter;
 
 public class Write {
 
-    PrintWriter printWriter = new PrintWriter(new BufferedWriter(new FileWriter("Dice results.txt", true)));
+    private static Write instance;
+    private final PrintWriter printWriter;
 
-    public Write() throws IOException {
+    private Write() throws IOException {
+        printWriter = new PrintWriter(new BufferedWriter(new FileWriter("Dice results.txt", true)));
+    }
+
+    public static Write getInstance() throws IOException {
+        if(instance == null){
+            instance = new Write();
+        }
+        return instance;
     }
 
     public void writeResultToFile(String result) {

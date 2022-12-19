@@ -5,26 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="lagt till swing gui och action listener">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_12_45__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_12_45__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_14_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_14_31__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_09_40__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_09_40__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_10_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_10_37__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_13_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_13_05__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_14_23__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_14_23__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dice results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dice results.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/bilder/dice1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/bilder/dice2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/bilder/dice3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/bilder/dice4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/bilder/dice5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/bilder/dice6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" afterDir="false" />
     </list>
     <list id="a9c15a11-e9df-469b-8dd6-809ada47f4c1" name="Changes by lemoniapalmqvist" comment="" />
-    <list id="2e1d8cae-df33-4fea-a22e-ef29bb09e455" name="Changes by lemoniapd" comment="">
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
-    </list>
+    <list id="2e1d8cae-df33-4fea-a22e-ef29bb09e455" name="Changes by lemoniapd" comment="" />
     <list id="f934b482-960b-41d0-aceb-6af64faa8fb0" name="Changes by peter" comment="" />
     <list id="019fed68-b9c2-400f-bd15-df35e3e942d5" name="Changes by Stefan" comment="" />
     <list id="22108256-6e2f-4d25-8a4e-4e36318e90ac" name="Changes by svantesodergard" comment="" />
@@ -66,7 +60,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KnockOut.Main" />
       <module name="ProjektarbeteKnockOut" />
       <extension name="coverage">

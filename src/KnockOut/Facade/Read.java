@@ -10,7 +10,7 @@ public class Read {
     public Read() throws FileNotFoundException {
     }
 
-    public ArrayList<String> resultListFromFile() throws IOException {
+    public ArrayList<String> resultListFromFile() {
         ArrayList<String> resultList = new ArrayList<>();
         try {
             String nextLine;
