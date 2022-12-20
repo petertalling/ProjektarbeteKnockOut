@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="lagt till swing gui och action listener">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_12_45__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_12_45__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_14_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-15_14_31__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_09_40__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_09_40__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_10_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_10_37__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_13_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_13_05__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_14_23__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-16_14_23__Changes_.xml" afterDir="false" />
+    <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="Skrivit om Write-klassen till en Singleton">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dice results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dice results.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
     </list>
     <list id="a9c15a11-e9df-469b-8dd6-809ada47f4c1" name="Changes by lemoniapalmqvist" comment="" />
     <list id="2e1d8cae-df33-4fea-a22e-ef29bb09e455" name="Changes by lemoniapd" comment="" />
@@ -34,10 +26,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="Development" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Development" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,7 +91,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1671104679380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Skrivit om Write-klassen till en Singleton">
+      <created>1671470727946</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1671470727946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore added" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore added" />
+    <MESSAGE value="Skrivit om Write-klassen till en Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skrivit om Write-klassen till en Singleton" />
   </component>
 </project>

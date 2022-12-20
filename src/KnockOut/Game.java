@@ -33,6 +33,8 @@ public class Game extends JFrame implements ActionListener{
     JLabel highscore1 =  new JLabel();
     JLabel highscore2 =  new JLabel();
     JLabel highscore3 =  new JLabel();
+    JButton playAgain = new JButton("Spela igen");
+
 
 
     public Game(String name, int knockoutNumber) throws IOException {
@@ -46,6 +48,7 @@ public class Game extends JFrame implements ActionListener{
         topHalf.add(pointsLabel);
         topHalf.add(throwDice);
         throwDice.addActionListener(this);
+        playAgain.addActionListener(this);
         title.setFont(new Font("Tahoma", Font.PLAIN, 25));
         bottomHalf.setLayout(new GridLayout(1,2));
         bottomHalf.add(die1);
@@ -89,6 +92,10 @@ public class Game extends JFrame implements ActionListener{
 
     @Override
     public void actionPerformed(ActionEvent e) {
+        if(e.getSource() == playAgain){
+            this.dispose();
+            new Main();
+        }
         if (e.getSource() == throwDice && !gameLost()) {
             dice1.throwDice();
             die1.setIcon(dice1.getImage());
@@ -104,6 +111,7 @@ public class Game extends JFrame implements ActionListener{
                 topHalf.remove(pointsLabel);
                 bottomHalf.remove(die1);
                 bottomHalf.remove(die2);
+                bottomHalf.add(playAgain);
                 try {
                     ArrayList<String> highscores = scoreBoardList(inputOutputHandler.resultListFromFile());
                     highscore1.setText(highscores.get(0));

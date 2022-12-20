@@ -16,3 +16,7 @@
 4 poäng, 5
 2 poäng, peter
 3 poäng, Kent
+5 poäng, Peter
+3 poäng, Peter
+6 poäng, peter
+14 poäng, Peter
