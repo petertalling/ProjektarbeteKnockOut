@@ -9,7 +9,6 @@ public class Write {
 
     private static Write instance;
     private final PrintWriter printWriter;
-
     private Write() throws IOException {
         printWriter = new PrintWriter(new BufferedWriter(new FileWriter("Dice results.txt", true)));
     }

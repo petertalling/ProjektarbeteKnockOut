@@ -6,3 +6,6 @@
 18 poäng, Ken
 7 poäng, Mats
 8 poäng, Peter
+6 poäng, Caesar
+12 poäng, Sulla
+4 poäng, Herkules

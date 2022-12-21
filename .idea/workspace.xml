@@ -7,11 +7,7 @@
     <list default="true" id="463b1709-5ea0-474f-9640-6d167cb4ffdd" name="Changes" comment="Lagt till knapp för att starta om spelet efter avslutad omgång.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dice results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dice results.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/InputOutputHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Read.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Facade/Write.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KnockOut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnockOut/Main.java" afterDir="false" />
     </list>
     <list id="a9c15a11-e9df-469b-8dd6-809ada47f4c1" name="Changes by lemoniapalmqvist" comment="" />
     <list id="2e1d8cae-df33-4fea-a22e-ef29bb09e455" name="Changes by lemoniapd" comment="" />
@@ -36,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Development" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,7 +98,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1671470727946</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Lagt till knapp för att starta om spelet efter avslutad omgång.">
+      <created>1671632974872</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1671632974872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore added" />
     <MESSAGE value="Skrivit om Write-klassen till en Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Skrivit om Write-klassen till en Singleton" />
+    <MESSAGE value="Lagt till knapp för att starta om spelet efter avslutad omgång." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lagt till knapp för att starta om spelet efter avslutad omgång." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
