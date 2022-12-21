@@ -17,5 +17,6 @@ public class InputOutputHandler {
 
     public ArrayList<String> resultListFromFile() throws IOException {
         return IN.resultListFromFile();
+
     }
 }

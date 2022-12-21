@@ -15,14 +15,18 @@ public class Write {
     }
 
     public static Write getInstance() throws IOException {
-        if(instance == null){
-            instance = new Write();
+
+        synchronized (Write.class){
+            if(instance == null){
+                instance = new Write();
+            }
         }
         return instance;
     }
 
     public void writeResultToFile(String result) {
         printWriter.println(result);
+        System.out.println("Write skrev resultat till fil");
         printWriter.close();
     }
 }
